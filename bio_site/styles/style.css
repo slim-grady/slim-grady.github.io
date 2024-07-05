@@ -1,0 +1,27 @@
+html {
+  border: 5px solid black;
+}
+
+body {
+  background-image: url('../images/twig.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Rubik', sans-serif;
+  color: whitesmoke;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
